@@ -8,7 +8,7 @@
 
 정말 잘 만든 조도 있었고, 경험이 없는 분들이 만든 페이지도 퀄리티가 너무 높았다.
 <figure>
-    <img sec="goodgood.png">
+    <img src="goodgood.png">
 </figure>
 
 
